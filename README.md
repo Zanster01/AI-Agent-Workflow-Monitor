@@ -26,3 +26,8 @@ An automated telemetry and diagnostic monitoring suite engineered to track multi
         │
         ▼ (Actionable Output)
 [ Operational Logs / Webhook Handler ]
+# Clone the repository
+git clone [https://github.com/Zanster01/AI-Agent-Workflow-Monitor-.git](https://github.com/Zanster01/AI-Agent-Workflow-Monitor-.git)
+
+# Run the monitoring engine
+python3 main.py
